@@ -1,0 +1,1 @@
+{"employee":[{"id":1,"name":"Ali","salary":9000,"email":"ali@test.com","hireDate":"2020-02-01","isManager":false},{"id":2,"name":"Kamal","salary":22000,"email":"kamal@test.com","hireDate":"2019-07-12","isManager":true},{"id":3,"name":"Amal","salary":23000,"email":"amal@test.com","hireDate":"2021-11-23","isManager":false}]}

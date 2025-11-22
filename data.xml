@@ -1,0 +1,3 @@
+<root>
+<employee><id>1</id><name>Ali</name><salary>9000</salary><email>ali@test.com</email><hireDate>2020-02-01</hireDate><isManager>false</isManager></employee><employee><id>2</id><name>Kamal</name><salary>22000</salary><email>kamal@test.com</email><hireDate>2019-07-12</hireDate><isManager>true</isManager></employee><employee><id>3</id><name>Amal</name><salary>23000</salary><email>amal@test.com</email><hireDate>2021-11-23</hireDate><isManager>false</isManager></employee>
+</root>
